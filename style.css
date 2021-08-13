@@ -1,0 +1,46 @@
+.main{
+    text-align: center;
+    padding: 100px;
+    padding-top: 20px;
+}
+h1{
+    display: inline-block;
+    width: 20px;
+}
+body{
+   
+   background-color: #323651;
+   color: white;
+
+}
+h2{
+    font-size: 60px;
+}
+#stop{
+color: #DCBA43;
+
+}
+
+button{
+    background-color:#DCBA43;
+    color: white;
+    width: 70px;
+    height: 40px;
+    font-weight: 100px;
+}
+
+ #start:hover {
+     color: #DCBA43;
+     background-color: white;
+     
+ }
+ #pause:hover {
+    color: #DCBA43;
+    background-color: white;
+    
+}
+#reset:hover {
+    color: #DCBA43;
+    background-color: white;
+    
+}
